@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "electron": "^20.1.1"
+  },
+  "name": "webmaker",
+  "description": "Building a website using Visualscript is both simple and fast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HACKERA316/webmaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HACKERA316/webmaker/issues"
+  },
+  "homepage": "https://github.com/HACKERA316/webmaker#readme"
+}
