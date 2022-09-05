@@ -1,2 +1,2 @@
 # webmaker
-blueprint system web make 
+visualscript to web site make. no code,no brain error, no time dead
